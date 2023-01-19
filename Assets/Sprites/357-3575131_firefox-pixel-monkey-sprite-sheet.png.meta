@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 3ecf0db6635fcf74dad4a0fa3437b27b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f3713732331546b3d0152267bb376
+      internalID: 122989726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 768
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c91724d404c940ae89ae2a2124f72
+      internalID: 1414701380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 768
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da123bbd1a10f2c43ac5e8365715799d
+      internalID: -1291616870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 768
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65016d232547f654f8348b80b750f799
+      internalID: 17329164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 768
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179cc17721d4e749876a3a16732d0c5
+      internalID: 1326820139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc6f20943f6d3148b33ef79d1fbd6d8
+      internalID: 578258234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 675
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cde21444407324795a1cc0820ba140
+      internalID: 1005758008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 672
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6789516ee0a5de449994abccd628713
+      internalID: -467445735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 678
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491b47c6f7b9d042a6b867ec0e97dba
+      internalID: -631777154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2799bb5a1442ff49882d2e63ce3afba
+      internalID: -1324327918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 576
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22443ea27c029954b990e3995e40f945
+      internalID: 1535738559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 576
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643dbb43be818a24daf9acccf0eb3b3a
+      internalID: -907806573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 576
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c0170ed150fb947ba3c6cabebb511f
+      internalID: 1610556105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 576
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b687755a5b98754cbb2ee2444a3c82a
+      internalID: 680439687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 477
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc396f33bfb9e4884792cdf0eab6db
+      internalID: 940310878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3908d3db4ef3d40b7f3d4c7d429a5c
+      internalID: 1164970828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 477
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3dfb6c9ba44b4f95abeeb61395eec
+      internalID: 2018840562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 483
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1aca6d9f10db4abfd7ec10e65106d
+      internalID: -1249927618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 483
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4b4dd9f19bbe44af55c8251c5ec8c
+      internalID: -529940603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 378
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c1afc2bbd83242bc6f83d2574943e
+      internalID: -1403239036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 381
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f98c1d521d9aa4ca80f304a8433b2a
+      internalID: -1412359738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074e517ff69706a4596785a3139ffa0a
+      internalID: -1934197057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 381
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d6759537a73b40a4be4b87c340c1c
+      internalID: 1612331648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 378
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada06759136075944919a4c08431b3de
+      internalID: 1770755967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 381
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0ce8cdb62331498e41889482e5ffb
+      internalID: -927941101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b27986a6a4929b48a561f4266a0ddcb
+      internalID: 4935981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 381
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ce983ba5f1834a989aa3f12274600
+      internalID: -5368126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 282
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f4eaf253e0e24791d7f33e8a645d4
+      internalID: 1289482809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 282
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e5fa6adcdfb9418b5efafd6470974
+      internalID: 1999157134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 192
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2fcdacc8700014c9d52dd769d354b1
+      internalID: -1919776971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be376401f52051a46b89daaf1c97ef02
+      internalID: -1341386801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df665467fbd3234ab2f7f9012819541
+      internalID: 2041771921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 192
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad09b77872aa8641b24dee0f7d3db09
+      internalID: 2069705453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059aeedc0088f645ae901e3cbf17e2c
+      internalID: -1907956157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54c604bed66254e8f9a964bda01250
+      internalID: 667768394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 99
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d923b3627be7f47ae9c907f3e88a7e
+      internalID: -2016327414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 96
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8674f014ccabe409014f5637612e28
+      internalID: 1447669870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1e7e9ed3bd5747b0ea54e97344724
+      internalID: 1781438309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28290ee5852049b4cb7314a8d6477b65
+      internalID: 1558401091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 357-3575131_firefox-pixel-monkey-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4589adab078b142bb644bd8336484d
+      internalID: -1869965630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      357-3575131_firefox-pixel-monkey-sprite-sheet_8: -631777154
+      357-3575131_firefox-pixel-monkey-sprite-sheet_15: 1164970828
+      357-3575131_firefox-pixel-monkey-sprite-sheet_7: -467445735
+      357-3575131_firefox-pixel-monkey-sprite-sheet_14: 940310878
+      357-3575131_firefox-pixel-monkey-sprite-sheet_5: 578258234
+      357-3575131_firefox-pixel-monkey-sprite-sheet_22: 1612331648
+      357-3575131_firefox-pixel-monkey-sprite-sheet_31: 2041771921
+      357-3575131_firefox-pixel-monkey-sprite-sheet_28: 1999157134
+      357-3575131_firefox-pixel-monkey-sprite-sheet_38: 1558401091
+      357-3575131_firefox-pixel-monkey-sprite-sheet_34: 667768394
+      357-3575131_firefox-pixel-monkey-sprite-sheet_16: 2018840562
+      357-3575131_firefox-pixel-monkey-sprite-sheet_2: -1291616870
+      357-3575131_firefox-pixel-monkey-sprite-sheet_4: 1326820139
+      357-3575131_firefox-pixel-monkey-sprite-sheet_17: -1249927618
+      357-3575131_firefox-pixel-monkey-sprite-sheet_25: 4935981
+      357-3575131_firefox-pixel-monkey-sprite-sheet_11: -907806573
+      357-3575131_firefox-pixel-monkey-sprite-sheet_35: -2016327414
+      357-3575131_firefox-pixel-monkey-sprite-sheet_13: 680439687
+      357-3575131_firefox-pixel-monkey-sprite-sheet_24: -927941101
+      357-3575131_firefox-pixel-monkey-sprite-sheet_6: 1005758008
+      357-3575131_firefox-pixel-monkey-sprite-sheet_33: -1907956157
+      357-3575131_firefox-pixel-monkey-sprite-sheet_27: 1289482809
+      357-3575131_firefox-pixel-monkey-sprite-sheet_10: 1535738559
+      357-3575131_firefox-pixel-monkey-sprite-sheet_9: -1324327918
+      357-3575131_firefox-pixel-monkey-sprite-sheet_0: 122989726
+      357-3575131_firefox-pixel-monkey-sprite-sheet_19: -1403239036
+      357-3575131_firefox-pixel-monkey-sprite-sheet_26: -5368126
+      357-3575131_firefox-pixel-monkey-sprite-sheet_37: 1781438309
+      357-3575131_firefox-pixel-monkey-sprite-sheet_12: 1610556105
+      357-3575131_firefox-pixel-monkey-sprite-sheet_1: 1414701380
+      357-3575131_firefox-pixel-monkey-sprite-sheet_18: -529940603
+      357-3575131_firefox-pixel-monkey-sprite-sheet_30: -1341386801
+      357-3575131_firefox-pixel-monkey-sprite-sheet_32: 2069705453
+      357-3575131_firefox-pixel-monkey-sprite-sheet_3: 17329164
+      357-3575131_firefox-pixel-monkey-sprite-sheet_29: -1919776971
+      357-3575131_firefox-pixel-monkey-sprite-sheet_39: -1869965630
+      357-3575131_firefox-pixel-monkey-sprite-sheet_21: -1934197057
+      357-3575131_firefox-pixel-monkey-sprite-sheet_20: -1412359738
+      357-3575131_firefox-pixel-monkey-sprite-sheet_23: 1770755967
+      357-3575131_firefox-pixel-monkey-sprite-sheet_36: 1447669870
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

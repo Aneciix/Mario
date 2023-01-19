@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: d8f9d306d17223245a894128b69a0c25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_0"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 528
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb49cce5b0c68c4282453459d155b64
+      internalID: 1208159470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_1"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 529
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280f9ee8f5c94c4487a46afbdc4101a
+      internalID: -1937123946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_2"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 425
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5538f0cbf219a4d92ea63952596130
+      internalID: -909094165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_3"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 425
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabde156044573438c05f14ffaf5e47
+      internalID: 2139127202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_4"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 347
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af9c9e3a04b0f743934b4a67bee2e42
+      internalID: -55513498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_5"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 344
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253cf48c00a463488d87e7702b0c18f
+      internalID: 2054331498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_6"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 345
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf38a6dc2383b42bae3fb6ef1f987b
+      internalID: -208624828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_7"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160f65c8265b384d83cc9242f3981e5
+      internalID: 453601460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_8"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 340
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a706716e61914489af55c06fc62f7
+      internalID: -2035665863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_9"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 340
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3c5e7dcf668e4d80e8abc561d35f7
+      internalID: 1457847977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_10"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 341
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac4f0e3ec7dac4186f7d385fff2e57
+      internalID: -296263455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_12"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dbb7384f9eea0479dcf25ee902cc34
+      internalID: -1739328447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_15"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598b2905ba16544da22d9fd9915af1c
+      internalID: -1532896796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_16"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac18462d21154499c749aaeb9c2612
+      internalID: -617893640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_17"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc889067aeb10a442a0027fb169a24cc
+      internalID: 794165098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_18"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbab086f2110d942be74ee6e99287a0
+      internalID: -242549967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_19"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4deb7975a8f38a4b9538f421903d9a1
+      internalID: -867405516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_20"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcebf3e8ccd0a46b042e724b9cabe4
+      internalID: 2056430878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_21"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102cce48ec22974e8960ceb1435672c
+      internalID: 1365849946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_22"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 210
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a425e833fc04b342a057c2f46b7f8bc
+      internalID: -2013820936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_23"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dcd65d0295c9f448cc00ec8abdd1cc
+      internalID: 644996063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_24"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a9d11bae21d54792b58c822a6d7fa
+      internalID: 130733470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_25"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e520e8feafec4e93c7e8ab59807f9
+      internalID: -1694799546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_26"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 147
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455591760bc5714eb4f7b839e3d34be
+      internalID: -1497060821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_27"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ebd09a8430af74a8bcf1ce933b6f58
+      internalID: -2125845692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_28"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031a04a91347f641aa7f36722480dea
+      internalID: 1925389508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_29"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 147
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f12f41ed93aec54fa8989d8642113a2
+      internalID: -146014258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_30"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 144
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e75bf90348a3a43ab682b140d90972
+      internalID: 1817856604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_31"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 82
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4ba6194f3d52438f55cd566efe122
+      internalID: -1684848275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_32"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa18f4ab5110bb43823975bdabee14e
+      internalID: 1153993356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_33"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3b9e512fe2fa46a82731912a6e285
+      internalID: -225251705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_34"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 82
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97f81063e10104bb8e6009e0889842
+      internalID: -1264935815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_35"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 82
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074aef8ab21d5804f9d38e39f418c956
+      internalID: -1754676337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_36"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc487e106ddd547af47d580cd021cf
+      internalID: -952435764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_37"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 82
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c710d3a2397b8b4ea772d5b365a94e5
+      internalID: -744750013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_38"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 78
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be0bc0088b8e4418b0b6dd8f61caf7
+      internalID: -1525048947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_18": -242549967
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_28": 1925389508
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_2": -909094165
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_30": 1817856604
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_16": -617893640
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_25": -1694799546
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_5": 2054331498
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_9": 1457847977
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_1": -1937123946
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_23": 644996063
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_32": 1153993356
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_6": -208624828
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_31": -1684848275
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_10": -296263455
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_4": -55513498
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_12": -1739328447
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_20": 2056430878
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_35": -1754676337
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_37": -744750013
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_7": 453601460
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_26": -1497060821
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_15": -1532896796
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_8": -2035665863
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_21": 1365849946
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_17": 794165098
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_22": -2013820936
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_24": 130733470
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_27": -2125845692
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_14": 718853760
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_19": -867405516
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_33": -225251705
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_0": 1208159470
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_29": -146014258
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_11": 21728213
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_3": 2139127202
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_36": -952435764
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_34": -1264935815
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_13": 672002132
+      "S\xE1nchez_Ortiz_Anelia_A3D_AE2D3D_2_5_38": -1525048947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
