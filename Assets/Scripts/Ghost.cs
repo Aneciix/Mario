@@ -88,7 +88,7 @@ public class Ghost : MonoBehaviour
             }
         }
 
-        void Jump()
+        void Jump() // Se añade una fuerza para poder saltar
         {
             rb.AddForce(Vector2.up * JForce);
         }
